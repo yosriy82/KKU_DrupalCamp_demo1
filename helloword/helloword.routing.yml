@@ -1,0 +1,7 @@
+helloword.says:
+  path: '/hello/word/{count}'
+  defaults:
+    _title: 'Hello Word'
+    _controller: '\Drupal\helloword\Controller\HellowordController::says'
+  requirements:
+    _permission: 'access content'

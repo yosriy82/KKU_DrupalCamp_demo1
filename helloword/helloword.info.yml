@@ -1,0 +1,5 @@
+name: Hello Word
+type: module
+description: 'Hello word prompt Module.'
+package: Custom
+core: '8.x'
